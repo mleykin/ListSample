@@ -4,6 +4,8 @@ ADDED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:2:1-21:12
@@ -23,6 +25,10 @@ INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & 
 		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:7:5-19:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
@@ -47,6 +53,10 @@ uses-sdk
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\ListSample\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
